@@ -1,0 +1,2 @@
+# premium-shepherd-dial-001-shepherd-dial-cylinder-shado
+Tired of manually tracking shepherd dial calculations and cylinder shadow projections without a structured system? The Shepherd Dial &amp; Cylinder Shadow Craft Lab is a purpose-built Notion template that transforms chaotic craft notes into organized, actionable shadow-craft intelligence.  This template eliminates the friction of scattered spreadsheets
